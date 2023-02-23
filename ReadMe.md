@@ -27,6 +27,6 @@ In this project I have several folders:
 - 03_FrontEnd
   - This folder will contain custom framework for this project as well as the implementation of all front-end features that are required for the base of the project. (In the future there might be added new folder to contain any additional games and mods that are created with the framework)
 - 04_backEnd
-  - This folder will contain full implementation of a back that will support the framework
+  - This folder will contain full implementation of a back-end that will support the framework
 - 05_Prototype
   - This folder contains the prototype of the game. The prototype is there to demonstrate the idea of the project as well as showcase the game.
